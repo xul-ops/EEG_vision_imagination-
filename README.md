@@ -1,1 +1,1 @@
-# EEG_vision_imagination-
+# EEG_vision_imagination
