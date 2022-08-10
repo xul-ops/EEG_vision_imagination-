@@ -1,0 +1,14 @@
+{
+  "image_base_path": "./Images/",
+  "image_types": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N"
+                 , "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"],
+  "video_time": 30000,
+  "trigger_interval": 100,
+  "flick_times": 5,
+  "fps": 20,
+  "screen_size": [1920, 1080],
+  "time_range_per_image": 0.2,
+  "video_output": "video_.mp4",
+  "label_output": "labels_.txt",
+  "trigger_position": [0, 830, 100, 930]
+}
