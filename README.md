@@ -22,7 +22,7 @@ After obtaining the EEG signals, we compared the EEG signals in different ways, 
 
 ## Models
 
-We have tested a lot of machine learning and deep learning models and neural networks, and the best performance is the random forest model, with an accuracy rate of 90-98%. (Please refer to the notebook folder for more details)
+We have tested a lot of machine learning and deep learning models and neural networks, and the best performance is the random forest model, with an accuracy rate of 90-98%. (Please refer to the notebook folder/internship report for more details)
 
 ## Future work
 
