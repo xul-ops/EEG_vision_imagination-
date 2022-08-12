@@ -12,7 +12,7 @@
 
 Our experiment adopts the method of the OpenBCI official (cat and dog) experiment, generates a video for the experimenter (me) to watch, and uses the device to collect the brain EEG signal while watching the video and store it in a txt file.
 
-Specifically, we used American Sign Language letters and pictures of the alphabet to generate videos. The experimenter will observe these letters and imagine the letters just observed after observing them, so our signals are also called visual signals/imagination signals. , sign language signal/alphabet signal.
+Specifically, we used American Sign Language letters and pictures of the alphabet to generate videos. The experimenter will observe these letters and imagine the letters just observed after observing them, so our signals are also called visual signals/imagination signals, sign language signal/alphabet signal.
 
 Our task is to perform multi-classification and binary classification tasks on these signals.
 
