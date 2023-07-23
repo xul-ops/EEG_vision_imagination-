@@ -32,5 +32,5 @@ This will/could be a step forward for brain typing.
 
 Due to the limitation of github, the data and video are not fully uploaded. If you need, or if you encounter any problems in executing the code, please contact me.
 
-- gmail: xulintaofr@gmail.com/lintao.xu@edu.esiee.fr
+- gmail: xulintaofr@gmail.com
 - github link:https://github.com/xul-ops/EEG_vision_imagination-
